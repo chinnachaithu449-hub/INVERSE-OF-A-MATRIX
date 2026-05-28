@@ -21,7 +21,7 @@ Step 4: Display the output value of inverse matrix.
 
 #Developed by: G chaithanya
 
-#RegisterNumber: 25015034
+#RegisterNumber: 212225230087
 
 import os
 
